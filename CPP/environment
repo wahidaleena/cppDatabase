@@ -1,0 +1,8 @@
+export DBNAME = 'Received_Items@Warehouse_Receipts'
+export USERNAME = 'user@2018'
+export PASSWORD = 'Passw0rd'
+
+export HOST = "DWSSHOME";
+export user_name = "joedss";
+export password = "pass1234";
+export filename = 'N01.Z4.SAMPLE.OUT';
